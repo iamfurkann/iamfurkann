@@ -67,7 +67,7 @@
     <li>🏅 <strong>TEKNOFEST 2024 Adana</strong> - Robotaksi (Binek Otonom Araç) Yarışması - Finalist</li>
     <li>🏅 <strong>TEKNOFEST 2024</strong> - Makeathon Yarışması - 4.'lük</li>
   </ul>
-  <a href="[(https://www.linkedin.com/company/pulsar-tech-team/)]">Pulsar Tech Hakkında Daha Fazla Bilgi (Eklenecek)</a>
+  <a href="[https://www.linkedin.com/company/pulsar-tech-team/]">Pulsar Tech Hakkında Daha Fazla Bilgi (Eklenecek)</a>
 </details>
 
 <details>
