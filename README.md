@@ -67,7 +67,7 @@
     <li>🏅 <strong>TEKNOFEST 2024 Adana</strong> - Robotaksi (Binek Otonom Araç) Yarışması - Finalist</li>
     <li>🏅 <strong>TEKNOFEST 2024</strong> - Makeathon Yarışması - 4.'lük</li>
   </ul>
-  <a href="https://www.linkedin.com/company/pulsar-tech-team/">Pulsar Tech Hakkında Daha Fazla Bilgi (Eklenecek)</a>
+  <a href="https://www.linkedin.com/company/pulsar-tech-team/">Pulsar Tech Hakkında Daha Fazla Bilgi</a>
 </details>
 
 <details>
@@ -75,9 +75,9 @@
   <br/>
   Öğrencilerin üniversite tercih dönemlerinde yapay zeka ve akranlarıyla etkileşim kurarak bilinçli kararlar almalarını sağlayacak bir web platformu geliştiriyoruz.
   <br/>
-  <em>Kullanılan Teknolojiler: [Projede Kullanılan Temel Teknolojiler Eklenecek]</em>
+  <em>Kullanılan Teknolojiler: Nextjs, Tailwind, Django, RAG</em>
   <br/>
-  <a href="[TERCİH NOKTAM PROJE LİNKİ (varsa)]">Projeyi İncele (Eklenecek)</a>
+  <a href="https://tercihnoktam.com">Projeyi İncele</a>
 </details>
 
 <details>
@@ -85,7 +85,7 @@
   <br/>
   Farklı dilleri çözümleyebilen ve kullanıcıya anlamlı çıktılar sunabilen bir uygulama geliştirdim. Bu proje, özellikle yapay zeka ve metin işleme alanındaki yeteneklerimi sergilemektedir.
   <br/>
-  <em>Kullanılan Teknolojiler: [Projede Kullanılan Temel Teknolojiler Eklenecek]</em>
+  <em>Kullanılan Teknolojiler:Python</em>
 </details>
 
 ---
@@ -126,13 +126,13 @@
 ## 📫 Benimle Bağlantı Kurun
 
 <p align="center">
-  <a href="[LİNKEDIN PROFİL LİNKİNİZİ BURAYA EKLEYİN]" target="_blank">
+  <a href="https://www.linkedin.com/in/esad-furkan-duman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://bionluk.com/esadfurkanduman" target="_blank">
     <img src="https://img.shields.io/badge/Bionluk-FF7F00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Bionluk"/>
     </a>
-  <a href="mailto:[E-POSTA ADRESİNİZİ BURAYA EKLEYİN]" target="_blank">
+  <a href="mailto:"esadfurkanduman@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   </p>
