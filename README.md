@@ -1,6 +1,6 @@
 <div align="center">
   <img src="esda.png" alt="Creative Tech Banner" width="900"/>
-  <h1>Selam, ben Esad Furkan (iamfurkann)</h1>
+  <h1>Selam, ben Esad Furkan!</h1>
   <p>
     <em>Yazılım ve robotiğe adanmış bir ruhla, kod satırlarından geleceği inşa eden bir geliştiriciyim.<br />
     <strong>42 İstanbul</strong>'da sınırları zorluyor, <strong>Pulsar Tech</strong> ile insanlık için teknoloji üretiyorum.</em>
