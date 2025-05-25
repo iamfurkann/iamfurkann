@@ -32,7 +32,7 @@
 
 ## 🛠️ Teknolojiler
 
-```text
+text
 Yazılım       : C, C++, C#, Python, Java
 Web           : HTML, CSS, Django, Tailwind, Next.js
 Donanım       : Arduino, SolidWorks, Fusion 360
@@ -65,4 +65,4 @@ Deneyap Türkiye – Gelişmiş Teknoloji Eğitimleri
 
 📬 İletişim
 <div align="center"> <a href="https://www.linkedin.com/in/esad-furkan-duman/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:esadfurkanduman@gmail.com"> <img src="https://img.shields.io/badge/E-Mail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://bionluk.com/esadfurkanduman"> <img src="https://img.shields.io/badge/Bionluk-orange?style=for-the-badge&logoColor=white" /> </a> </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamfurkann&label=Ziyaretçi&style=flat-square&color=lightgray"/> </p>
-<div align="center"> 🧭 Yeni teknolojiler keşfetmeye ve anlamlı projeler üretmeye devam ediyorum. Profilimi ziyaret ettiğiniz için teşekkür ederim! </div> ```
+<div align="center"> 🧭 Yeni teknolojiler keşfetmeye ve anlamlı projeler üretmeye devam ediyorum. Profilimi ziyaret ettiğiniz için teşekkür ederim! </div>
