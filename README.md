@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <h1>👋 Merhaba, Ben Esad Furkan (iamfurkann)!</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B95C4&repeat=false&width=435&lines=Merhaba%2C+Ben+Esad+Furkan!" alt="Typing SVG" /></a>
   <p>
     <em>Küçüklüğümden beri yazılıma ve robotiğe tutkuyla bağlı, sürekli öğrenmeyi ve yenilikçi çözümler üretmeyi hedefleyen bir geliştiriciyim.<br />
     Şu anda <strong>42 İstanbul</strong>'da eğitimime devam ediyor ve <strong>Pulsar Tech</strong> ekibiyle aktif olarak projeler geliştiriyorum.</em>
