@@ -22,7 +22,6 @@ Ben Esad Furkan, teknolojiye ve problem çözmeye küçüklüğümden beri tutku
 * **42 İstanbul** öğrencisiyim; burada sadece kod yazmayı değil, aynı zamanda öğrenmeyi öğreniyor ve bir takımın parçası olarak karmaşık projeler geliştiriyorum.
 * Ana odak alanlarım **Yapay Zeka** (görüntü, ses, metin işleme), **Robotik Sistemler** ve **Yazılım Geliştirme**.
 * Temel amacım, insanlığa fayda sağlayan, etki yaratan teknolojiler geliştirmek.
-* **İngilizce (C2 Seviye)** bilgimle global kaynakları etkin bir şekilde takip ediyor ve uluslararası projelerde yer almayı hedefliyorum.
 
 ---
 
