@@ -48,9 +48,9 @@ Aşağıda sıkça kullandığım ve uzmanlaştığım teknolojileri ve araçlar
   <br/>
   <strong>Pulsar Tech</strong> takım kaptanı olarak, insanlık yararına teknolojiler geliştiriyor ve ulusal arenada önemli başarılara imza atıyoruz. Ekip çalışmasına ve yenilikçi çözümlere olan inancımızla öne çıkan başarılarımız:
   <ul>
-    <li><strong>TEKNOFEST 2024 Adana</strong> - Robotaksi (Binek Otonom Araç) Yarışması - <strong>Finalist</strong></li>
+    <li><strong>TEKNOFEST 2024 Adana</strong> - Robolig Yarışması - <strong>Finalist</strong></li>
     <li><strong>TEKNOFEST 2024</strong> - Makeathon Yarışması - <strong>Türkiye 4.'lüğü</strong></li>
-    <li><strong>TEKNOFEST 2023 Ankara</strong> - Robotaksi (Binek Otonom Araç) Yarışması - <strong>Türkiye 7.'liği</strong></li>
+    <li><strong>TEKNOFEST 2023 Ankara</strong> - Robolig Yarışması - <strong>Türkiye 7.'liği</strong></li>
   </ul>
   <p align="center">
     <a href="https://www.linkedin.com/company/pulsar-tech-team/">Pulsar Tech'i LinkedIn'de Keşfet</a>
