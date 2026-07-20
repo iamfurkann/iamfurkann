@@ -2,8 +2,8 @@
   <img src="esda.png" alt="Creative Tech Banner" width="900"/>
   <h1>Selam, ben Esad Furkan!</h1>
   <p>
-    <em>Yazılım ve robotiğe adanmış bir ruhla, kod satırlarından geleceği inşa eden bir geliştiriciyim.<br />
-    <strong>42 İstanbul</strong>'da sınırları zorluyor, <strong>Pulsar Tech</strong> ile insanlık için teknoloji üretiyorum.</em>
+    <em>Yazılım, işletim sistemi mimarisi ve robotiğe adanmış bir ruhla, kod satırlarından geleceği inşa eden bir geliştiriciyim.<br />
+    <strong>42 İstanbul</strong>'da sınırları zorluyor, kendi işletim sistemi çekirdeğimi (<strong>esdumanOS</strong>) yazıyor ve <strong>Pulsar Tech</strong> ile insanlık için teknoloji üretiyorum.</em>
   </p>
 
   <p>
@@ -44,6 +44,30 @@ Aşağıda sıkça kullandığım ve uzmanlaştığım teknolojileri ve araçlar
 ## Projeler ve Başarılar
 
 <details open>
+  <summary><strong>Proje: esdumanOS (Custom x86 Operating System)</strong></summary>
+  <br/>
+  Sıfırdan C ve Assembly ile geliştirdiğim 32-bit x86 işletim sistemi çekirdeği. Custom VFS, Zero-Trust (4 seviyeli) güvenlik modeli ve AES-256 disk şifrelemesi barındırır.
+  <br/>
+  <em>Kullanılan Teknolojiler: C, x86 Assembly, OSDev</em>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/iamfurkann/esdumanOS">Kaynak Kodu</a> | <a href="https://iamfurkann.github.io/esdumanOS-website/">Web Sitesi</a>
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Proje: Premium Kişisel Web Sitesi</strong></summary>
+  <br/>
+  Sadece saf HTML5, CSS3 ve Vanilla JavaScript kullanılarak (hiçbir framework olmadan) Vercel/Apple tasarım standartlarında geliştirdiğim portfolyo web sitem. Glassmorphism ve yüksek performanslı animasyonlar içerir.
+  <br/>
+  <em>Kullanılan Teknolojiler: HTML5, CSS3, Vanilla JS</em>
+  <br/>
+  <p align="center">
+    <a href="https://iamfurkann.github.io/">Portfolyomu İncele</a>
+  </p>
+</details>
+
+<details open>
   <summary><strong>Pulsar Tech & TEKNOFEST Başarıları</strong></summary>
   <br/>
   <strong>Pulsar Tech</strong> takım kaptanı olarak, insanlık yararına teknolojiler geliştiriyor ve ulusal arenada önemli başarılara imza atıyoruz. Ekip çalışmasına ve yenilikçi çözümlere olan inancımızla öne çıkan başarılarımız:
@@ -77,14 +101,30 @@ Aşağıda sıkça kullandığım ve uzmanlaştığım teknolojileri ve araçlar
   <em>Kullanılan Teknolojiler: Python</em>
 </details>
 
+<details>
+  <summary><strong>Proje: ESP32/ESP8266 Secure RC (AES-GCM)</strong></summary>
+  <br/>
+  ESP-NOW üzerinden AES-128-GCM ile şifrelenmiş, doğrulanmış ve düşük gecikmeli güvenli haberleşme arayüzü.
+  <br/>
+  <em>Kullanılan Teknolojiler: C++, ESP32, Cryptography</em>
+</details>
+
+<details>
+  <summary><strong>Proje: osint-engine</strong></summary>
+  <br/>
+  Go dili ile yazılmış, açık kaynak istihbaratı (OSINT) toplamak için geliştirilmiş yüksek performanslı framework.
+  <br/>
+  <em>Kullanılan Teknolojiler: Go, Security</em>
+</details>
+
 ---
 
 ## GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamfurkann&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true&line_height=21" alt="iamfurkann'ın GitHub İstatistikleri" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamfurkann&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true&line_height=21" alt="iamfurkann'ın GitHub İstatistikleri" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfurkann&layout=compact&theme=calm&hide_border=true&langs_count=8&card_width=445" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamfurkann&layout=compact&theme=calm&hide_border=true&langs_count=8&card_width=445" alt="En Çok Kullanılan Diller" />
 </p>
 
 ---
