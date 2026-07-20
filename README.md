@@ -3,7 +3,7 @@
   <h1>Selam, ben Esad Furkan!</h1>
   <p>
     <em>Yazılım, işletim sistemi mimarisi ve robotiğe adanmış bir ruhla, kod satırlarından geleceği inşa eden bir geliştiriciyim.<br />
-    <strong>42 İstanbul</strong>'da sınırları zorluyor, kendi işletim sistemi çekirdeğimi (<strong>esdumanOS</strong>) yazıyor ve <strong>Pulsar Tech</strong> ile insanlık için teknoloji üretiyorum.</em>
+    <strong>42 İstanbul</strong> eğitimimi tamamladım, kendi işletim sistemi çekirdeğimi (<strong>esdumanOS</strong>) yazıyor ve <strong>Pulsar Tech</strong> ile insanlık için teknoloji üretiyorum.</em>
   </p>
 
   <p>
@@ -19,7 +19,7 @@
 
 Ben Esad Furkan, teknolojiye ve problem çözmeye küçüklüğümden beri tutkuyla bağlıyım. Sürekli öğrenme ve yenilikçi çözümler üretme arayışım, beni yazılım ve robotik dünyasının derinliklerine yönlendirdi.
 
-* **42 İstanbul** öğrencisiyim; burada sadece kod yazmayı değil, aynı zamanda öğrenmeyi öğreniyor ve bir takımın parçası olarak karmaşık projeler geliştiriyorum.
+* **42 İstanbul** ekolünden geliyorum; burada sadece kod yazmayı değil, aynı zamanda öğrenmeyi öğrenerek karmaşık projeler geliştirdim.
 * Ana odak alanlarım **Yapay Zeka** (görüntü, ses, metin işleme), **Robotik Sistemler** ve **Yazılım Geliştirme**.
 * Temel amacım, insanlığa fayda sağlayan, etki yaratan teknolojiler geliştirmek.
 
@@ -141,7 +141,7 @@ Aşağıda sıkça kullandığım ve uzmanlaştığım teknolojileri ve araçlar
 * **Information System Intern** | Teksan™ | <em>Temmuz 2022 - Temmuz 2022</em>
 
 ### Eğitim
-* **42 İstanbul** | Yazılım Mühendisliği | <em>Devam Ediyor (Beklenen Mezuniyet: Nisan 2025)</em>
+* **42 İstanbul** | Yazılım Mühendisliği | <em>Kasım 2025</em>
 * **Şehit Salih Alışkan Mesleki ve Teknik Anadolu Lisesi** | Bilişim Teknolojileri (4.0/4.0) | <em>Eylül 2020 - Haziran 2024</em>
 * **Amerikan Kültür Dil Okulları** | İngilizce (C2 Seviye) | <em>Mart 2023 - Mayıs 2024</em>
 * **Deneyap Türkiye Atölyeleri** | İleri Seviye Teknoloji Eğitimleri | <em>Mayıs 2022 - Mayıs 2024</em>
